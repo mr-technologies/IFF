@@ -1,3 +1,5 @@
+![logo](logo.png)
+
 # IFF SDK manual
 
 [HTML format](https://mr-te.ch/iff-sdk-manual-1-4)
