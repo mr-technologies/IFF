@@ -2,9 +2,9 @@
 
 # IFF SDK manual
 
-[HTML format](https://mr-te.ch/iff-sdk-manual-1-4)
+[HTML format](https://mr-te.ch/iff-sdk-manual-1-5)
 
-[PDF format](manual/iff-sdk-manual-1-4.pdf)
+[PDF format](manual/iff-sdk-manual-1-5.pdf)
 
 ## C API header file
 
