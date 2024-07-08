@@ -1,7 +1,7 @@
 /*
  * IFF SDK (https://mr-technologies.com/) is licensed under MRTech SK Standard License Agreement.
  *
- * Copyright (c) 2015-2023 MRTech SK, s.r.o.
+ * Copyright (c) 2015-2024 MRTech SK, s.r.o.
  */
 
 #ifndef _IFF_H
