@@ -1,7 +1,7 @@
 /*
  * IFF SDK (https://mr-technologies.com/) is licensed under MRTech SK Standard License Agreement.
  *
- * Copyright (c) 2015-2025 MRTech SK, s.r.o.
+ * Copyright (c) 2015-2026 MRTech SK, s.r.o.
  */
 
 #ifndef _IFF_H
@@ -92,6 +92,7 @@ typedef enum iff_error_code
 #define IFF_LOG_LEVEL_DEBUG "DEBUG"
 #define IFF_LOG_LEVEL_WARNING "WARNING"
 #define IFF_LOG_LEVEL_ERROR "ERROR"
+#define IFF_LOG_LEVEL_FATAL "FATAL"
 #define IFF_LOG_LEVEL_INFO "INFO"
 
 typedef void* iff_chain_handle_t;
